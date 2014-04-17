@@ -1,4 +1,4 @@
-// A very simple proxy that given a GET request from a configurable host, you will be redirected to a configurable url
+// A very limited proxy that given a GET request from a configurable host, you will be redirected to a configurable url
 
 package main
 
